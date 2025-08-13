@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --max-width-container: 1440px; 
+  --font-workSans: "Work Sans", sans-serif;
+  --color-primary: #131313;
+  --color-secondary: #727272;
+
+}
